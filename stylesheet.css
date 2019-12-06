@@ -6,6 +6,8 @@ html, body {
 
 .page {
   background-color: white;
+  font-family: sans-serif;
+  src: url(https://fonts.googleapis.com/css?family=Open+Sans);
 }
 
 .nav-header {
@@ -56,7 +58,6 @@ h1 {
   margin: 10px 0 40px;
   padding-bottom: 10px;
   color: #6f717d;
-  
 }
 
 h2 {
